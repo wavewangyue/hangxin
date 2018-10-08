@@ -1,7 +1,7 @@
-# hangxin
-Prototype System of Team ACT&amp;Hangxin
+## 航信一期：组合推荐项目 原型系统
 
-Copyright@2016 ACTLib of BUAA
+Demo System of Team ACT&amp;Hangxin
 
-#Project Environment
-Intellij IDEA
+©Copyright 2016, ACTLib of BUAA
+
+Coded with Java, Intellij IDEA and JSP+Tomcat.
